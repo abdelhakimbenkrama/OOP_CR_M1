@@ -28,7 +28,7 @@
   3. booleans.
   4. object equality test.
 
-*tp6 :  
+* tp6 :  
   1. inheritance.
   2. abstract classes.
   3. interface.
