@@ -1,6 +1,7 @@
 # Content :
-* tp1 : 1. variables
-        2. System.out.println()
+* tp1 : 
+  1. variables
+  2. System.out.println()
 
 * tp2 : 1/ 1d Array
        2/ for loop
